@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    letter-spacing: 0.5px;
+    background: linear-gradient(90deg, rgb(60, 61, 64), rgb(0, 0, 0));
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Helvetica Neue';
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.btn,
+.btn-dark,
+.btn-check:focus + .btn-dark,
+.btn-dark:focus,
+.btn-check:focus + .btn,
+.btn:focus {
+    border: none;
+    box-shadow: none;
+}
+
+.btn-dark:hover {
+    background: #212529;
+}
+
+.bg-primary,
+.btn-light {
+    letter-spacing: 0.7px;
+}
+.custom-next-button {
+    background: #1533E8;
+}
+.first-content {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.btn {
+    padding: 13px 22px;
+}
+.adv-back {
+    background: linear-gradient(90deg, rgb(60, 61, 64), rgb(0, 0, 0));
+}
+.rgb-back {
+    background: rgba(0, 0, 0, 0.5);
+}
+.font-es {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+h3 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+h1 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    
+}
